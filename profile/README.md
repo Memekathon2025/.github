@@ -10,6 +10,7 @@
 [![Hardhat](https://img.shields.io/badge/Built%20with-Hardhat-yellow)](https://hardhat.org/)
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react)](https://react.dev/)
 
+[데모 플레이](https://www.canva.com/design/DAG6vqxeN-c/DvPPp03c0hmoaby_xhJIGQ/watch?utm_content=DAG6vqxeN-c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4e0f71fe90)
 </div>
 
 ---
