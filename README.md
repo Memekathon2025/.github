@@ -30,7 +30,8 @@
 ![3  플레이어 사망(Player Exited - Dead)](https://github.com/user-attachments/assets/d665facc-10d2-4ee9-a56f-aef3bd843c39)
 
 4. 플레이어 탈출
-![Uploading 4. 플레이어 탈출(Player Exited - Claim).gif…]()
+![4  플레이어 탈출(Player Exited - Claim)](https://github.com/user-attachments/assets/22afbe0a-c8de-4a8f-88cb-4c8098b923de)
+
 
 ---
 
