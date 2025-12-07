@@ -4,6 +4,7 @@
 
 ### 실시간 DeFi 가격이 게임 운명을 결정하는 블록체인 서바이벌 게임
 
+[![MemeCore](https://img.shields.io/badge/Built%20on-MemeCore-FF6B6B?style=flat&logo=ethereum)](https://memecore.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.28-e6e6e6?logo=solidity)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Built%20with-Hardhat-yellow)](https://hardhat.org/)
@@ -46,8 +47,8 @@
 
 ### 4️⃣ PvP 전투
 - 다른 플레이어와 충돌 시 보유 가치 비교
-- **내 가치 > 상대 입장료**: 상대 토큰 획득 💰
-- **내 가치 < 상대 입장료**: 게임 오버 ☠️
+- **내 가치 ≥ 입장료**: 수집한 토큰 보유하고 계속 플레이 💰
+- **내 가치 < 입장료**: 게임 오버 (입장료 손실) ☠️
 
 ### 5️⃣ 보상 수령
 - 탈출 성공 시 수집한 모든 토큰을 지갑으로 전송
