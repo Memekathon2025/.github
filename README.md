@@ -12,7 +12,7 @@
 
 </div>
 
-**🎮 [지금 플레이하기](https://memeat-fe.onrender.com/)** | **📊 [피치덱 보기](./docs/MemEat_PitchDeck.pdf)** | **🎬 [데모 영상](./docs/demo.mp4)**
+**🎮 [지금 플레이하기](https://memeat-fe.onrender.com/)** | **📊 [피치덱 보기](./docs/MemEat_PitchDeck.pdf)** | **🎬 [데모 영상](./docs/MemEat_Demo.mp4)**
 
 </div>
 
