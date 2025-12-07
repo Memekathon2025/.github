@@ -20,13 +20,17 @@
 
 ## 🎥 데모 영상
 
-<div align="center">
+1. 입장
+![1  입장(Entrance)](https://github.com/user-attachments/assets/203abaae-171f-4099-996e-99b426998940)
 
-https://github.com/user-attachments/assets/demo.mp4
+2. 토큰 수집
+![2  토큰 수집(Collect Tokens)](https://github.com/user-attachments/assets/b7f6617d-6d2e-4474-8ebb-e8b51cc8a6ba)
 
-**[📥 데모 영상 다운로드](./docs/MemEat_Demo.mp4)**
+3. 플레이어 사망
+![3  플레이어 사망(Player Exited - Dead)](https://github.com/user-attachments/assets/d665facc-10d2-4ee9-a56f-aef3bd843c39)
 
-</div>
+4. 플레이어 탈출
+![Uploading 4. 플레이어 탈출(Player Exited - Claim).gif…]()
 
 ---
 
