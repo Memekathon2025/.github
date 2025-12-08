@@ -10,7 +10,7 @@
 [![Hardhat](https://img.shields.io/badge/Built%20with-Hardhat-yellow)](https://hardhat.org/)
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react)](https://react.dev/)
 
-**🎮 [지금 플레이하기](https://memeat-fe.onrender.com/)** | **📊 [피치덱 보기](./docs/MemEat_PitchDeck.pdf)** | **🎬 [데모 영상](./docs/MemEat_Demo.mp4)**
+**🎮 [지금 플레이하기](https://memeat-fe.onrender.com/)** | **📊 [피치덱 보기](../docs/MemEat_PitchDeck.pdf)** | **🎬 [데모 영상](../docs/MemEat_Demo.mp4)**
 
 </div>
 
@@ -20,9 +20,7 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/MemEat_Demo.mp4
-
-**[📥 데모 영상 다운로드](./docs/MemEat_Demo.mp4)**
+**[📥 데모 영상 다운로드](../docs/MemEat_Demo.mp4)**
 
 </div>
 
