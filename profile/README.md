@@ -20,7 +20,7 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/user-attachments/assets/MemEat_Demo.mp4
 
 **[📥 데모 영상 다운로드](./docs/MemEat_Demo.mp4)**
 
