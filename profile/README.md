@@ -21,7 +21,7 @@
 
 <div align="center">
 
-**[📄 피치덱 PDF 보기](./docs/MemEat_PitchDeck.pdf)**
+**[📄 피치덱 PDF 보기](../docs/MemEat_PitchDeck.pdf)**
 
 </div>
 
